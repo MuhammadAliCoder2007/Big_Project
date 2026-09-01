@@ -1,0 +1,199 @@
+AI resume screener for small businesses
+AI interview coach that conducts mock interviews
+AI career advisor for university students
+AI internship finder that matches students to jobs
+AI tool that automatically tailors resumes to job descriptions
+AI LinkedIn profile optimizer
+AI cover letter generator that actually sounds human
+AI networking assistant that finds people worth reaching out to
+AI that tracks internship applications and follow-ups
+AI job application autofiller
+AI portfolio builder for developers
+AI GitHub profile analyzer
+AI that turns GitHub projects into resume bullet points
+AI code reviewer for beginner programmers
+AI tutor that teaches from your university lectures
+AI study planner based on upcoming exams
+AI that turns lecture recordings into notes + quizzes
+AI flashcard generator from PDFs
+AI assignment planner for university students
+AI group-project manager for students
+AI course-selection assistant
+AI university course review platform
+Marketplace for university students to buy/sell textbooks
+Marketplace for students to buy/sell used electronics
+Student housing roommate matching platform
+Student meal-budget planner
+AI personal finance tracker for students
+AI subscription tracker
+AI budgeting app that predicts upcoming expenses
+AI tax assistant for Canadian students
+AI scholarship finder and application assistant
+AI that finds unused subscriptions
+AI grocery optimizer based on budget + nutrition
+AI meal planner based on what's already in your fridge
+AI grocery shopping list optimizer
+Gym workout planner that adapts to your schedule
+AI form-checking workout assistant
+AI fitness progress tracker using photos + measurements
+AI personal stylist
+AI haircut/style recommendation app
+AI skincare routine optimizer
+AI wardrobe organizer from photos
+AI outfit generator based on clothes you already own
+AI travel planner that builds realistic itineraries
+AI trip budget optimizer
+AI airport/flight connection assistant
+AI local events discovery app
+AI restaurant recommendation app based on actual preferences
+AI food ingredient scanner for dietary restrictions
+AI restaurant menu analyzer
+AI grocery price comparison app
+AI home inventory tracker
+AI appliance maintenance reminder
+Predictive maintenance software for small businesses
+AI inventory forecasting for small retailers
+AI employee scheduling optimizer
+AI customer-service assistant for small businesses
+AI receptionist for small businesses
+AI appointment booking agent
+AI missed-call follow-up agent
+AI invoice/chasing assistant for freelancers
+AI bookkeeping assistant for small businesses
+AI sales lead qualification agent
+AI CRM specifically for small businesses
+AI email follow-up assistant for salespeople
+AI meeting-to-action-items tool
+AI internal company knowledge base
+AI onboarding assistant for new employees
+AI SOP generator for businesses
+AI tool that turns messy spreadsheets into dashboards
+AI data-cleaning tool for small businesses
+AI Excel/Google Sheets assistant
+AI website builder for local businesses
+AI website maintenance assistant
+AI Google Business Profile optimizer
+AI social media manager for local businesses
+AI short-form video generator for businesses
+AI tool that turns long videos into shorts
+AI podcast-to-content generator
+AI YouTube title/thumbnail optimizer
+AI YouTube analytics coach
+AI content idea generator based on trends
+AI scriptwriter for faceless channels
+AI tool that finds viral content patterns
+AI UGC ad generator
+AI product photography generator for small businesses
+AI ad creative testing platform
+AI landing-page conversion optimizer
+AI competitor monitoring tool
+AI review-response generator for businesses
+AI that monitors negative reviews and alerts businesses
+Local business marketplace for students
+Platform connecting students with small businesses for freelance work
+Marketplace for university-specific services
+Peer tutoring marketplace
+Student freelance marketplace
+Campus delivery service
+Campus laundry pickup/delivery
+Campus food-sharing marketplace
+University event discovery platform
+University club management software
+AI club recruitment assistant
+University networking platform
+Alumni-student mentorship marketplace
+AI startup idea validator
+AI that analyzes whether a business idea is worth pursuing
+AI customer interview analyzer
+AI landing-page builder that validates ideas before launch
+Startup cofounder matching platform
+Marketplace for buying/selling small SaaS businesses
+No-code SaaS builder for niche businesses
+AI-powered personal assistant for small business owners
+AI agent that handles repetitive browser tasks
+AI email inbox manager for businesses
+AI document-processing platform for small companies
+AI contract/document summarizer for businesses
+AI compliance checklist manager
+AI cybersecurity assistant for small businesses
+AI phishing-training platform for companies
+AI-powered password/security audit for small businesses
+AI customer feedback analyzer
+AI survey generator + analyzer
+AI product feedback platform
+AI that predicts customer churn
+AI sales forecasting for small businesses
+AI demand forecasting for restaurants
+AI appointment cancellation predictor
+AI employee retention predictor
+AI lead-generation tool for local businesses
+AI-powered virtual receptionist for tradespeople
+AI quoting software for contractors
+AI job-estimate generator for contractors
+AI scheduling software for plumbers/electricians/HVAC
+AI construction project tracker
+AI property management assistant
+AI tenant communication assistant
+AI rental listing optimizer
+AI real-estate lead qualification agent
+AI home-renovation cost estimator
+AI interior design planner
+AI furniture placement app using phone camera
+AI marketplace for local services
+Platform for finding trustworthy handymen
+Local service provider reputation platform
+AI elder-care coordination assistant
+AI pet-care scheduling platform
+Pet-sitter marketplace
+AI pet health/activity tracker
+AI language-learning conversation partner
+AI pronunciation coach
+AI debate coach
+AI public-speaking coach
+AI sales-training simulator
+AI negotiation simulator
+AI leadership simulator
+AI coding interview simulator
+AI technical interview simulator
+AI case-interview simulator
+AI finance interview simulator
+AI that turns any textbook into an interactive tutor
+AI "Duolingo for university courses"
+AI that explains professor slides like a tutor
+AI that predicts what topics you're weakest at
+AI personalized exam generator
+AI exam-cramming assistant
+AI procrastination/accountability app
+AI focus partner that works alongside you
+AI study room matching platform
+Virtual coworking platform for students
+AI productivity coach that analyzes how you spend your time
+AI calendar optimizer
+AI automatically plans your week
+AI email + calendar assistant for students
+AI that converts goals into daily actions
+AI habit tracker that actually adapts to failures
+AI personal knowledge management system
+AI "second brain" for students
+AI that remembers everything you learn
+AI that connects your notes across courses
+AI search engine for your personal documents
+AI search engine for company knowledge
+AI research assistant for university students
+AI paper-reading assistant
+AI citation/research organizer
+AI literature-review assistant
+AI that detects gaps in research
+AI experiment-analysis assistant
+AI lab-notebook assistant
+AI startup research assistant
+AI competitor research agent
+AI market research agent
+AI financial-modeling assistant
+AI business-plan generator + validator
+AI pitch-deck builder
+AI investor update generator
+AI founder dashboard
+AI startup KPI tracker
+AI fundraising CRM
+AI investor matching platform
