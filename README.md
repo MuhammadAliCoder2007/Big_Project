@@ -3,4 +3,6 @@
 - that have an impact on the society
 - solve a problem
 - could be attract users
+- has to be an idea im passionate about
+- 
   
