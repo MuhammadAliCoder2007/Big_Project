@@ -4,5 +4,6 @@
 - solve a problem
 - could be attract users
 - has to be an idea im passionate about
-- 
+- build a scalable idea
+  
   
