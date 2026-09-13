@@ -6,5 +6,7 @@
 - has to be an idea im passionate about
 - build a scalable idea
 - it should relate with AI
+- has to be something that is relevant
+
   
   
